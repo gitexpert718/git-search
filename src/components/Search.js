@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { MdSearch } from 'react-icons/md'
 import { GithubContext } from '../context/context'
 const Search = () => {
-  const [user, setUser] = React.useState('aacismaharjan')
+  const [user, setUser] = React.useState('gitexpert718')
   const { requests, error, searchGithubUser, isLoading } = React.useContext(
     GithubContext
   )
