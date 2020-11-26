@@ -6,4 +6,4 @@ You can find this project [here](https://github-user-stats.netlify.app/).
 
 ## Github link
 
-[Git](https://github.com/jinbest/git-stats-search).
+[Git](https://github.com/gitexpert718/git-search/).
